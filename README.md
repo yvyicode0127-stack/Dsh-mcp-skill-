@@ -12,6 +12,14 @@ Together with DSH's built-in "Skills" group, you can **click a skill to add it t
 
 ---
 
+## 📸 Screenshots
+
+| Screenshot 1 | Screenshot 2 |
+|---|---|
+| ![screenshot-1](docs/screenshots/screenshot-1.png) | ![screenshot-2](docs/screenshots/screenshot-2.png) |
+
+---
+
 ## ✨ What You Get
 
 ### 1. Three new commands in the menu
