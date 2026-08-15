@@ -12,6 +12,14 @@
 
 ---
 
+## 📸 效果图
+
+| 效果图 1 | 效果图 2 |
+|---|---|
+| ![效果图1](docs/screenshots/screenshot-1.png) | ![效果图2](docs/screenshots/screenshot-2.png) |
+
+---
+
 ## ✨ 具体效果
 
 ### 1. 命令菜单新增三个命令
