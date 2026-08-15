@@ -1,0 +1,12 @@
+{
+  "name": "dsh-command-menu",
+  "version": "0.2.0",
+  "description": "MCP和Skill界面插件: /mcp /plugins /skills 三个命令,在 DSH web 输入框「+」/「/」菜单中列出 MCP 服务、插件和 skill,支持回车查看列表、输入名称看详情。",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "license": "MIT"
+}
